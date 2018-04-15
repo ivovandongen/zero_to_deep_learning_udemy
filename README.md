@@ -1,5 +1,8 @@
 # Zero to Deep Learning™ Udemy Video Course
 
+## Start environment
+
+`source env.profile`
 
 Welcome to the Zero to Deep Learning Video Course repository
 
